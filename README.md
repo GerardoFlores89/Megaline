@@ -1,1 +1,3 @@
-# Megaline
+# Descripción del proyecto
+
+La compañía móvil Megaline no está satisfecha al ver que muchos de sus clientes utilizan planes heredados. Quieren desarrollar un modelo que pueda analizar el comportamiento de los clientes y recomendar uno de los nuevos planes de Megaline: Smart o Ultra. Para esta tarea de clasificación debes crear un modelo que escoja el plan correcto. Para ayudarte a entrenar tu modelo, utilizarás los datos de comportamiento del usuario del curso sobre Análisis estadísticos de datos. Como ya hiciste el paso de procesar los datos, puedes lanzarte directo a crear el modelo. Desarrolla un modelo con la mayor exactitud posible. En este proyecto, el umbral de exactitud es 0.75. Usa el dataset para comprobar la exactitud.
